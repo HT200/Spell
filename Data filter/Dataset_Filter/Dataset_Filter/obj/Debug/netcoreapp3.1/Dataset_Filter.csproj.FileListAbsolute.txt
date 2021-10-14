@@ -1,0 +1,14 @@
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\bin\Debug\netcoreapp3.1\Dataset_Filter.exe
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\bin\Debug\netcoreapp3.1\Dataset_Filter.deps.json
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\bin\Debug\netcoreapp3.1\Dataset_Filter.runtimeconfig.json
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\bin\Debug\netcoreapp3.1\Dataset_Filter.runtimeconfig.dev.json
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\bin\Debug\netcoreapp3.1\Dataset_Filter.dll
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\bin\Debug\netcoreapp3.1\Dataset_Filter.pdb
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.csprojAssemblyReference.cache
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.AssemblyInfoInputs.cache
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.AssemblyInfo.cs
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.csproj.CoreCompileInputs.cache
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.dll
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.pdb
+C:\Users\AHHHHHHHHHHHHHH\Documents\GitHub\Spell\Data filter\Dataset_Filter\Dataset_Filter\obj\Debug\netcoreapp3.1\Dataset_Filter.genruntimeconfig.cache

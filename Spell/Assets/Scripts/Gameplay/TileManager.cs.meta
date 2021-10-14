@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: bb7d417467213ea468e9d50944681bb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aBlock: {fileID: 7892253768549878536, guid: b525b4f75bd6ae04c8917a5a29e6b9e2, type: 3}
+  - bBlock: {fileID: 6761634429099949841, guid: 298f00a1dd55dd244a7e1393cab25132, type: 3}
+  - cBlock: {fileID: 3605412227111729282, guid: 26deea0c8adf7e1449931f18c27af36c, type: 3}
+  - dBlock: {fileID: 4413940691618807197, guid: a23f4c87b772aee4f9bd9cbc9d823bbc, type: 3}
+  - eBlock: {fileID: 6532304297241275514, guid: d5c9249962b59944f94936f34ee5e868, type: 3}
+  - fBlock: {fileID: 4395345224437473421, guid: 5c215eed0bc86614083cdf2659edadab, type: 3}
+  - gBlock: {fileID: 5396507237036108804, guid: 06251ac3e11546147a4b67c477ff6649, type: 3}
+  - hBlock: {fileID: 8281550669495432889, guid: 2e8011bb4945ede4d97bdcebed581e42, type: 3}
+  - iBlock: {fileID: 4432572719936793737, guid: e5df47609def8b84fbe700f0bc492208, type: 3}
+  - jBlock: {fileID: 5175573522790763508, guid: 5e1aed4281ae59049be5ac609f3af086, type: 3}
+  - kBlock: {fileID: 5774879589080155759, guid: 39d43584b851089449199913eeaf98c3, type: 3}
+  - lBlock: {fileID: 546703299492741214, guid: 0de1c32c6f92dff4492c00f0fda9b668, type: 3}
+  - mBlock: {fileID: 6976271459095263669, guid: 982ce66b93264e84d947c0abff4b5ec4, type: 3}
+  - nBlock: {fileID: 3158991278422237493, guid: 52ea0d43772434c4c862618186e9369f, type: 3}
+  - oBlock: {fileID: 5184713424061970317, guid: d8756ee06483ec34abc656103b528d0b, type: 3}
+  - pBlock: {fileID: 4308141341665305850, guid: 1e04b0a7b2f8d9049b85bb2052cb2b4f, type: 3}
+  - qBlock: {fileID: 3374141662957682141, guid: b6b84689838d3f14e9d2117ab0e4ae02, type: 3}
+  - rBlock: {fileID: 600797567887146699, guid: b0c0e8acb0381e947a2e24ca0f284bef, type: 3}
+  - sBlock: {fileID: 3712900283463574952, guid: 5bd3fa70c496caf448e4d6e0ddc8b5cc, type: 3}
+  - tBlock: {fileID: 5667046884005452485, guid: d977f57c237b4654eb2216aa6f84d81e, type: 3}
+  - uBlock: {fileID: 1792534249649787833, guid: 4c32e9cc739098443b333a997b77cd58, type: 3}
+  - vBlock: {fileID: 8760931887514813194, guid: 9156d75c93dbcd74381aca9cf082e51b, type: 3}
+  - wBlock: {fileID: 5753425966287205675, guid: 45a973f1e2fcd9948b86a738bf3fc3f3, type: 3}
+  - xBlock: {fileID: 2255408391312850764, guid: ead41834af43fd44581bbd34886c8247, type: 3}
+  - yBlock: {fileID: 5308452030430716861, guid: 5e737c13d03813543902e4a80359eeb7, type: 3}
+  - zBlock: {fileID: 5844260548124866467, guid: 513659866352f114d845bbdb718d6f4e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

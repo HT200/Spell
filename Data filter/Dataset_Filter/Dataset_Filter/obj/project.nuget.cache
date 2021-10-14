@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cZVrid4gxqjjvPOZw+TUtovL0YG8+67kBl9ROAdo2nXj3aO0nMjyAAKW1tGdzsTzjvW6V744d3wFgXhYDl6cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AHHHHHHHHHHHHHH\\Documents\\GitHub\\Spell\\Data filter\\Dataset_Filter\\Dataset_Filter\\Dataset_Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AHHHHHHHHHHHHHH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
